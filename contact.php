@@ -51,6 +51,7 @@
 									<li><a href="services.php">Services</a></li>
 									<li><a href="news.php">News</a></li>
 									<li><a href="contact.php">Contact</a></li>
+                                    <li><a href="Login/logIn.php">Sign In/Sign Up</a></li>
 								</ul>
 							</nav>
 							<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
